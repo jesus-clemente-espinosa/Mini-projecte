@@ -135,5 +135,5 @@ Uso libre para prácticas y aprendizaje.
 
 ---
 
-✨ **Autor:** (Tu nombre aquí)
+✨ **Autor:** (Jesus Clemente y David Mbado)
 🍬 Proyecto: DULCICAT - Gestión de Golosinas
